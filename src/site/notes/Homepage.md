@@ -11,7 +11,7 @@
 [[Eastern Provinces and Cities/The Shattered Shores\|The Shattered Shores]]
 
 #### [[Western Provinces and Cities/The West\|The West]]
-[[Groups and Associations/Predata Tribes\|Predata Tribes]]
+[[Western Provinces and Cities/Predata Territory\|Predata Territory]]
 [[Western Provinces and Cities/Sagea Territory\|Sagea Territory]]
 [[Western Provinces and Cities/Veraun\|Veraun]]
 [[Western Provinces and Cities/Verdanci\|Verdanci]]
