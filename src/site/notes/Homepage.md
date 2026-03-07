@@ -3,8 +3,9 @@
 ---
 
 # Shards of Divinity
-The [[Quest Board.canvas\|Quest Board.canvas]]:
-![Quest Board.png](/img/user/Quest%20Board.png)
+
+### The Quest Board:
+The [[Quest Board.canvas\|Quest Board.canvas]]
 ## [[Session Recaps\|Session Recaps]]
 
 ## information here can be considered general knowledge; and free to access and use during sessions.
