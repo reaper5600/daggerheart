@@ -3,7 +3,7 @@
 ---
 
 # Shards of Divinity
-The quest board:
+The [[Quest Board.canvas\|Quest Board.canvas]]:
 ![Quest Board.png](/img/user/Quest%20Board.png)
 ## [[Session Recaps\|Session Recaps]]
 
