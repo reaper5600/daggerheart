@@ -4,6 +4,9 @@
 
 # Shards of Divinity
 
+## [[Quest Board.canvas\|Quest Board.canvas]]
+## [[Session Recaps\|Session Recaps]]
+
 ## information here can be considered general knowledge; and free to access and use during sessions.
 ### POI information:
 #### [[Eastern Provinces and Cities/The East\|The East]]
