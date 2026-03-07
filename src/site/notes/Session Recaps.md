@@ -5,4 +5,5 @@
 # Session Recaps
 will be listed in order (top newest)
 
-[[The Carnival\|The Carnival]]
+[[Session 1\|Session 1]]
+[[Early Beginnings\|Early Beginnings]]
