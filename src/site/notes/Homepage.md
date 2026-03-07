@@ -25,3 +25,5 @@
 [[Characters/Fennel\|Fennel]] (the librarian)
 [[Characters/Maurice\|Maurice]] (the cook)
 [[Characters/Winter\|Winter]] (the barkeep)
+
+### Organizations & Stuff
