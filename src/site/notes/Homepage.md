@@ -22,7 +22,7 @@
 #### [[The Northern Provinces and Cities/The North\|The North]]
 [[The Northern Provinces and Cities/The Northern Cliffs\|The Northern Cliffs]]
 
-### Notable NPC information information
+### NPC information
 
 [[Western Provinces and Cities/Xara's Rest\|Xara's Rest]]:
 [[Characters/Fennel\|Fennel]] (The Librarian)
