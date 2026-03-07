@@ -4,7 +4,7 @@
 
 # Shards of Divinity
 
-## information here can be considered general; and free to access and use during 
+## information here can be considered general knowledge; and free to access and use during sessions.
 ### POI information:
 #### [[Eastern Provinces and Cities/The East\|The East]]
 [[Eastern Provinces and Cities/Alterrus\|Alterrus]]
@@ -21,12 +21,16 @@
 #### [[The Northern Provinces and Cities/The North\|The North]]
 [[The Northern Provinces and Cities/The Northern Cliffs\|The Northern Cliffs]]
 
-### Notable NPC information information:
-[[Characters/Fennel\|Fennel]] (the librarian)
-[[Characters/Maurice\|Maurice]] (the cook)
-[[Characters/Winter\|Winter]] (the barkeep)
+### Notable NPC information information
 
-### Organizations & Stuff
+[[Western Provinces and Cities/Xara's Rest\|Xara's Rest]]:
+[[Characters/Fennel\|Fennel]] (The Librarian)
+
+[[Wandering Widow\|Wandering Widow]]:
+[[Characters/Maurice\|Maurice]] (The Cook)
+[[Characters/Winter\|Winter]] (The Barkeep)
+
+### Organizations & Such
 [[Groups and Associations/Predata Tribes\|Predata Tribes]]
 [[Groups and Associations/Sagea Tribes\|Sagea Tribes]]
 [[Groups and Associations/The Auxilia\|The Auxilia]]
