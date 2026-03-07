@@ -3,6 +3,7 @@
 ---
 
 # Shards of Divinity
+
 ## information here can be considered general; and free to access and use during 
 ### POI information:
 #### [[Eastern Provinces and Cities/The East\|The East]]
@@ -16,6 +17,9 @@
 [[Western Provinces and Cities/Veraun\|Veraun]]
 [[Western Provinces and Cities/Verdanci\|Verdanci]]
 [[Western Provinces and Cities/Xara's Rest\|Xara's Rest]]
+
+#### [[The North\|The North]]
+[[The Northern Provinces and Cities/The Northern Cliffs\|The Northern Cliffs]]
 
 ### Notable NPC information information:
 [[Characters/Fennel\|Fennel]] (the librarian)

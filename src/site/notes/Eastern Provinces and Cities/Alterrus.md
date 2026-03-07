@@ -4,7 +4,7 @@
 
 Capital of the east  
   
-Home of the Emberguard  
+Home of [[Groups and Associations/The EmberGuard\|The EmberGuard]]  
   
 ---  
   
