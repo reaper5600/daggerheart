@@ -3,4 +3,3 @@
 ---
 
 # Shards of Divinity
-lorem ipsum
