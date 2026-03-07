@@ -25,11 +25,12 @@
 
 [[Western Provinces and Cities/Xara's Rest\|Xara's Rest]]:
 [[Characters/Fennel\|Fennel]] (The Librarian)
+[[Characters/Ed\|Ed]]
 
 [[Wandering Widow\|Wandering Widow]]:
 [[Characters/Maurice\|Maurice]] (The Cook)
 [[Characters/Winter\|Winter]] (The Barkeep)
-
+[[Characters/Alegarde\|Alegarde]] (Mercenary Guild)
 ### Organizations & Such
 [[Groups and Associations/Predata Tribes\|Predata Tribes]]
 [[Groups and Associations/Sagea Tribes\|Sagea Tribes]]
