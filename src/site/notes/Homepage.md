@@ -4,4 +4,5 @@
 
 # Shards of Divinity
 ### POI information:
-![[Map.jpg]]
+Eastern Provinces & Cities:
+[[Eastern Provinces and Cities/Alterrus\|Alterrus]]
