@@ -19,6 +19,5 @@
 
 ### Notable NPC information information:
 [[Characters/Fennel\|Fennel]]
-[[Characters/Maurice\|Maurice]]
-[[Characters/Praetor Cassius\|Praetor Cassius]]
+[[Characters/Maurice\|Maurice]] (the cook)
 [[Characters/Winter\|Winter]]
