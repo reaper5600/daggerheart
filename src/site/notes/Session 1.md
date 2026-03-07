@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/session-1/"}
+---
+
+The party starts in the Wandering Widow, with all the party members ending up there just before midnight. The party is ushered inside, and the inn will be sealed and teleport to Predata territory in the west. The party will speak with Talenat, (winter, north wind, Ice god) and collect drinks. There, they will accept 3 jobs, one to find a cat in the gilded plains, one to find a lost patron in the Erratic Plane, and another to search for Kor’s eye. They make their way to Xara’s rest, and there Celena, who studied under Fennel, the god of knowledge and writing will use her connections to discover key information pertaining to the quest. Key takeaways and quests: - Damian can make a portal to the Wandering Widow - Three new jobs have been accepted: o Save cat in gilded plains o Find lost patron in Erratic Plane ◊ Current Quest o Search for clues to the location of Kor’s Eye
