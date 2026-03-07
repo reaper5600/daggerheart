@@ -3,6 +3,7 @@
 ---
 
 # Shards of Divinity
+![Quest Board.png](/img/user/Quest%20Board.png)
 ## [[Session Recaps\|Session Recaps]]
 
 ## information here can be considered general knowledge; and free to access and use during sessions.
