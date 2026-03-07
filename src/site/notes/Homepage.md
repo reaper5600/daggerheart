@@ -18,6 +18,6 @@
 [[Western Provinces and Cities/Xara's Rest\|Xara's Rest]]
 
 ### Notable NPC information information:
-[[Characters/Fennel\|Fennel]]
+[[Characters/Fennel\|Fennel]] (the librarian)
 [[Characters/Maurice\|Maurice]] (the cook)
-[[Characters/Winter\|Winter]]
+[[Characters/Winter\|Winter]] (the barkeep)
