@@ -25,7 +25,7 @@
 
 [[Western Provinces and Cities/Xara's Rest\|Xara's Rest]]:
 [[Characters/Fennel\|Fennel]] (The Librarian)
-[[Characters/Ed\|Ed]]
+[[Characters/Ed\|Ed]] (The Guard Captain)
 
 [[Wandering Widow\|Wandering Widow]]:
 [[Characters/Maurice\|Maurice]] (The Cook)
