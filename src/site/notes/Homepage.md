@@ -3,6 +3,7 @@
 ---
 
 # Shards of Divinity
+## information here can be considered general, and all characters would know this information.
 ### POI information:
 #### [[Eastern Provinces and Cities/The East\|The East]]
 [[Eastern Provinces and Cities/Alterrus\|Alterrus]]
