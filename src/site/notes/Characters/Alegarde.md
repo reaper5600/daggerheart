@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/alegarde/"}
 ---
 
-(Mercenary Guild) (Quest-Giver) ([[Wandering Widow\|Wandering Widow]])  
+(Mercenary Guild) (Quest-Giver) ([[Objects and such/Wandering Widow\|Wandering Widow]])  
 Drakona  
 Forest Green Scales, very bright blue eyes, Simple Brown Robes.
 
